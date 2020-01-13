@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/KOHGYLW/kiftd-source" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.dev.tencent.com:yinaoxiong/erp-back-end.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\projects" />
