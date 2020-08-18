@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* A timeout value of zero is interpreted as an infinite timeout. * A negative value is interpreted as undefined (system default)." />
       <item value="unkown" />
       <item value="evaluated" />
       <item value="site Id" />
@@ -8,8 +9,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
