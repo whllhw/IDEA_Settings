@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inherit Doc" />
+      <item value="Precise Modulo Table Sharding Algorithm" />
       <item value="idle" />
       <item value="* Maximum number of connections that can be allocated by the pool at a given * time. Use a negative value for no limit." />
       <item value="* A timeout value of zero is interpreted as an infinite timeout. * A negative value is interpreted as undefined (system default)." />
@@ -11,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
