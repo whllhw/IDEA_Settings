@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="field" />
+      <item value="filed" />
+      <item value="descriptors" />
+      <item value="refer" />
+      <item value="dirty" />
       <item value="describe" />
       <item value="occation" />
       <item value="purely" />
@@ -19,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
