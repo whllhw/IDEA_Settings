@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expires Strategy" />
+      <item value="缓存过期策略" />
       <item value="A Camel Application" />
       <item value="Camel" />
       <item value="load Configuration" />
