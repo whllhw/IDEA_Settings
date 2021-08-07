@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A Camel Application" />
+      <item value="Camel" />
       <item value="load Configuration" />
       <item value="Configuartion" />
       <item value="is Textual" />
@@ -36,6 +38,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622859479404" />
+    <option name="lastTrimTime" value="1628309444116" />
   </component>
 </application>
